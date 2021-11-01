@@ -1,0 +1,25 @@
+!SESSION 2021-11-01 10:33:01.191 -----------------------------------------------
+eclipse.buildId=4.13.0.I20190916-1045
+java.version=1.8.0_221
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -keyring /Users/govjha/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -data /Users/govjha/Documents/horokoPPMP/ppmp -product org.eclipse.epp.package.jee.product -keyring /Users/govjha/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2021-11-01 10:33:17.518
+!MESSAGE System property http.proxyHost is not set but should be www-proxy.us.oracle.com.
+
+!ENTRY org.eclipse.core.net 1 0 2021-11-01 10:33:17.544
+!MESSAGE System property http.proxyPort is not set but should be 80.
+
+!ENTRY org.eclipse.core.net 1 0 2021-11-01 10:33:17.546
+!MESSAGE System property https.proxyHost is not set but should be www-proxy.us.oracle.com.
+
+!ENTRY org.eclipse.core.net 1 0 2021-11-01 10:33:17.586
+!MESSAGE System property https.proxyPort is not set but should be 80.
+
+!ENTRY org.eclipse.core.net 1 0 2021-11-01 10:33:17.590
+!MESSAGE System property https.proxyHost is not set but should be www-proxy.us.oracle.com.
+
+!ENTRY org.eclipse.core.net 1 0 2021-11-01 10:33:17.591
+!MESSAGE System property https.proxyPort is not set but should be 80.
